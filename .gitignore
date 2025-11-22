@@ -1,0 +1,15 @@
+build/
+install/
+log/
+**/build/
+**/install/
+**/log/
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+src/turtlebot3_ws/src/DynamixelSDK/
+src/turtlebot3_ws/src/turtlebot3/
+src/turtlebot3_ws/src/turtlebot3_msgs/
+src/turtlebot3_ws/src/turtlebot3_simulations/
+src/yolov3.weights
